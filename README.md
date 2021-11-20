@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **Laravel, Tailwind, React, NextJS**
 
-- 📝 I regularly write articles on [https://raspada-blog.co.uk](https://raspada-blog.co.uk)
+- 📝 I regularly write articles on www.raspada-blog.co.uk
 
-- 💬 Ask me about **Anything.... if i can help i will**
+- 💬 Ask me about - Anything.... if i can help i will
 
-- 📫 How to reach me **mike@raspada-blog.co.uk**
+- 📫 How to reach me itmike2018@gmail.com
 
 - ⚡ Fun fact **Im a full on Geek but my hobbie and passion is Brazilian JiuJitsu (The art of folding cloths.... whilst people are still wearing them!)**
