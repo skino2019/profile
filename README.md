@@ -14,6 +14,3 @@
 - 📫 How to reach me **mike@raspada-blog.co.uk**
 
 - ⚡ Fun fact **Im a full on Geek but my hobbie and passion is Brazilian JiuJitsu (The art of folding cloths.... whilst people are still wearing them!)**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skino2019&show_icons=true&locale=en" alt="skino2019" /></p>
-
